@@ -1,0 +1,38 @@
+html {
+  font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
+  background-image: url(img/bg.jpeg);
+  background-size: cover;
+  min-height: 100vh;
+}
+
+body {
+  padding-top: 10vh;
+  padding-bottom: 5vh;
+}
+
+.container {
+  background-color: #425cbb;
+  width: 420px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px 30px 10px 30px;
+  border-radius: 10px;
+}
+
+img {
+  height: 85px;
+  float: left;
+  margin: 20px;
+  border-radius: 85px;
+}
+
+.center {
+  text-align: center;
+}
+
+hr {
+  height: 2px;
+  border: 0;
+  border-top: 1px solid white;
+}
